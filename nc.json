@@ -11,9 +11,11 @@
             "Et nihil ipsam quis temporibus sit doloribus."
         ],
         "due_date": "2022-04-23",
-        "complete_date": "",
+        "complete_date": "2022-04-23",
         "accepted_date": "",
         "accepted_by": "",
+        "accept_detail": "",
+        "reason": "",
         "status": 1,
         "correctives": [
             {
@@ -70,7 +72,9 @@
         "complete_date": "",
         "accepted_date": "",
         "accepted_by": "",
-        "status": 1,
+        "accept_detail": "",
+        "reason": "",
+        "status": 0,
         "correctives": [
             {
                 "id": 1,
